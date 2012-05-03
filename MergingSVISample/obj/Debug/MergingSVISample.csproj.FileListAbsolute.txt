@@ -1,0 +1,16 @@
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\bin\Debug\Resources\icon.png
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\bin\Debug\MergingSVISample.xml
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\bin\Debug\MergingSVISample.exe
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\bin\Debug\MergingSVISample.pdb
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\MergingSVISample.csprojResolveAssemblyReference.cache
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\MainWindow.baml
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\App.baml
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\MainWindow.g.cs
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\App.g.cs
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\MergingSVISample_Content.g.cs
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\MergingSVISample_MarkupCompile.cache
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\MergingSVISample.g.resources
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\MergingSVISample.Properties.Resources.resources
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\MergingSVISample.csproj.GenerateResource.Cache
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\MergingSVISample.exe
+C:\Users\AmrReda\Documents\Visual Studio 2010\Projects\MergingSVISample\MergingSVISample\obj\Debug\MergingSVISample.pdb

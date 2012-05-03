@@ -1,0 +1,27 @@
+﻿<s:SurfaceWindow x:Class="MergingSVISample.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="http://schemas.microsoft.com/surface/2008"
+    Title="MergingSVISample"
+    >
+
+    <Grid   Width="1024" Height="768">
+        <s:ScatterView x:Name="_scatter">
+            <s:ScatterViewItem Background="Red"
+                           Width="200" Height="200"
+                           PreviewTouchUp="ScatterViewItem_TouchUp"/>
+
+            <s:ScatterViewItem Background="Yellow"
+                           Width="200" Height="200"
+                           PreviewTouchUp="ScatterViewItem_TouchUp"/>
+
+            <s:ScatterViewItem Background="Blue"
+                           Width="200" Height="200"
+                           PreviewTouchUp="ScatterViewItem_TouchUp"/>
+
+            <s:ScatterViewItem Background="Green"
+                           Width="200" Height="200"
+                           PreviewTouchUp="ScatterViewItem_TouchUp"/>
+        </s:ScatterView>
+    </Grid>
+</s:SurfaceWindow>
